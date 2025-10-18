@@ -1,0 +1,19 @@
+/* External CSS for Lesson 3 */
+
+body {
+  border: 5px dashed #ff99b8;
+  margin: 20px;
+}
+
+h2 {
+  color: #001f4d;
+  text-decoration: underline;
+}
+
+p {
+  color: green;
+}
+
+span.inline {
+  color: blue;
+}
